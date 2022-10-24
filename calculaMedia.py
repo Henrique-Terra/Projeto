@@ -1,3 +1,4 @@
+print("Sejam Bem-Vindos!")
 nota1 = int(input("Nota 1:"))
 nota2 = int(input("Nota 2:"))
 
